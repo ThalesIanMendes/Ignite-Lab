@@ -20,6 +20,8 @@ Link --> https://ignite-bmpow7w41-thalesianmendes.vercel.app/
 - ✔️ GraphQl (graphcms)
 - ✔️ Figma
 - ✔️ Vite
+- ✔️ GraphQl code generation
+
 
 ROCKT SEAT <3 
 ## 😃 Gostou? me siga no -> [Likedln](https://www.linkedin.com/in/thales-ian-carlesso-975014214/)
