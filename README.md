@@ -17,5 +17,9 @@ Link --> https://ignite-bmpow7w41-thalesianmendes.vercel.app/
 - ✔️ HTML.
 - ✔️ CSS/TailwindCSS.
 - ✔️ Reactjs/Typescript.
+- ✔️ GraphQl (graphcms)
+- ✔️ Figma
+- ✔️ Vite
 
+ROCKT SEAT <3 
 ## 😃 Gostou? me siga no -> [Likedln](https://www.linkedin.com/in/thales-ian-carlesso-975014214/)
